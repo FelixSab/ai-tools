@@ -16,3 +16,5 @@ https://qdrant.tech/
 https://github.com/yoheinakajima/babyagi
 
 https://github.com/Torantulino/Auto-GPT
+
+https://github.com/microsoft/JARVIS
