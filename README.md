@@ -18,3 +18,6 @@ https://github.com/yoheinakajima/babyagi
 https://github.com/Torantulino/Auto-GPT
 
 https://github.com/microsoft/JARVIS
+
+## Image Generators
+https://github.com/CompVis/stable-diffusion
