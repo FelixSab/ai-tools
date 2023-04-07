@@ -25,5 +25,8 @@ https://github.com/Torantulino/Auto-GPT
 
 https://github.com/microsoft/JARVIS
 
+### LLM Composability and Integration
+https://github.com/hwchase17/langchain
+
 ## Image Generators
 https://github.com/CompVis/stable-diffusion
