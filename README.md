@@ -16,6 +16,8 @@ https://qdrant.tech/
 
 https://github.com/chroma-core/chroma
 
+https://github.com/milvus-io/milvus
+
 ### AI Agents
 https://github.com/yoheinakajima/babyagi
 
