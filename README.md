@@ -2,6 +2,8 @@
 ## Voice Tools
 https://play.ht/
 
+https://beta.elevenlabs.io/
+
 ## LLMs
 https://chat.openai.com
 
