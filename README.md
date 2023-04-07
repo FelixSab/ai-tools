@@ -9,6 +9,8 @@ https://chat.openai.com
 
 https://github.com/lm-sys/FastChat
 
+https://github.com/LAION-AI/Open-Assistant
+
 ### Vector DBs
 https://weaviate.io/
 
