@@ -14,6 +14,8 @@ https://weaviate.io/
 
 https://qdrant.tech/
 
+https://github.com/chroma-core/chroma
+
 ### AI Agents
 https://github.com/yoheinakajima/babyagi
 
