@@ -37,3 +37,11 @@ https://github.com/hwchase17/langchain
 
 ## Image Generators
 https://github.com/CompVis/stable-diffusion
+
+## 3D Tools
+https://skybox.blockadelabs.com/
+
+https://spline.design/ai
+
+### NERFs
+https://lumalabs.ai/
