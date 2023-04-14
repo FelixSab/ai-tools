@@ -5,10 +5,11 @@ https://play.ht/
 https://beta.elevenlabs.io/
 
 ## LLMs
-
 https://github.com/lm-sys/FastChat
 
 https://github.com/LAION-AI/Open-Assistant
+
+https://github.com/EleutherAI/pythia
 
 ### Vector DBs
 https://weaviate.io/
