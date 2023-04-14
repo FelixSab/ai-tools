@@ -45,3 +45,6 @@ https://spline.design/ai
 
 ### NERFs
 https://lumalabs.ai/
+
+### Animations
+https://github.com/facebookresearch/AnimatedDrawings
