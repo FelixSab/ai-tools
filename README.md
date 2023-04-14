@@ -9,6 +9,8 @@ https://github.com/lm-sys/FastChat
 
 https://github.com/LAION-AI/Open-Assistant
 
+https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm
+
 https://github.com/EleutherAI/pythia
 
 ### Vector DBs
